@@ -1,0 +1,10 @@
+{
+  "name": "myapi-sonar",
+  "private": true,
+  "devDependencies": {
+    "sonarqube-scanner": "^4.3.4"
+  },
+  "scripts": {
+    "sonar": "sonar-scanner"
+  }
+}
